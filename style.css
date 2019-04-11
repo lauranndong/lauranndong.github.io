@@ -19,7 +19,7 @@ font-family: "Lato", sans-serif;
   z-index: 1;
   top: 20px;
   left: 10px;
-  background: white; 
+  background: "white"; 
   overflow-x: hidden;
   padding: 8px 0;
   opacity: 0.75;
@@ -29,7 +29,7 @@ font-family: "Lato", sans-serif;
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: firebrick;
+  color: "firebrick";
   display: block;
 }
 
