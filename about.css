@@ -19,17 +19,17 @@ font-family: "Lato", sans-serif;
   z-index: 1;
   top: 20px;
   left: 10px;
-  background: white; 
+  background: firebrick; 
   overflow-x: hidden;
   padding: 8px 15px;
-  opacity: 0.75;
+  opacity: 0.5;
 }
 
 .main .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: firebrick;
+  color: white;
   display: block;
 }
 
